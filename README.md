@@ -5,4 +5,9 @@
 ### 📫 How to reach me: email
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyzhkovIlya&theme=radical&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.newdbase.com.br%2Fblog%2Ffuncionamento-de-validacao-de-dados-online%2F%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dfuncionamento-de-validacao-de-dados-online&psig=AOvVaw2OOvjfKPbfaAzybKRZj6MJ&ust=1632068735135000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJDS_fv3iPMCFQAAAAAdAAAAABAI)](https://github.com/RyzhkovIlya)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://vk.com/i.ryzhkov1799" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ryzhkov_1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/ryzhkovilya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+</p>
