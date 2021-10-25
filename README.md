@@ -14,4 +14,5 @@
 <a href="https://www.kaggle.com/ryzhkovilya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 </p>
 ### Python 
+
 ![CodeWars](https://www.codewars.com/users/Ilya1799/badges/large)
