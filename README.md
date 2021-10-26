@@ -1,6 +1,4 @@
-### Hi there 👋
-### 🌱 I’m currently learning DS
-### 💬 Ask me your questions
+# Hi there 👋
 ### 📫 How to reach me: ryzhkov.ilua99@yandex.ru
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyzhkovIlya&theme=radical&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyzhkovIlya&layout=compact)](https://github.com/RyzhkovIlya/github-readme-stats)
