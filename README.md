@@ -1,4 +1,12 @@
-# Hi there 👋
+# Hi there 👋 I'm Ilya
+## Data Scientist
+**I'm working with:**
+ - Data Analysis
+ - Machine Learning
+ - Deep Learning
+
+**You can see my projects in repositories** 
+
 ### 📫 How to reach me: ryzhkov.ilua99@yandex.ru
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyzhkovIlya&theme=radical&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyzhkovIlya&layout=compact)](https://github.com/RyzhkovIlya/github-readme-stats)
