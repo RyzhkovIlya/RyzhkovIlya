@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Ilya Ryzhkov and I'm Data Scientist/Data Analyst
+# Hi there 👋 I'm Ilia Ryzhkov and I'm Data Scientist/Data Analyst
 ## About me
 I am a qualified and professional data science since 2021 in data analytics and сonstruction of predictive ML models. Strong creative and analytical skills.
 Team player with an eye for detail. I am actively engaged in building up practice in various projects and hackathons. I developprofessional skills, I read technical literature.
